@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+        "beautiful-ai-v2-igor": {
+            "url": "https://agent-mcp-527868152643.us-central1.run.app/mcp"
+        }
+    }
+}
